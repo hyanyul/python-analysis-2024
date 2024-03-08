@@ -1,9 +1,9 @@
-## 1일차 학습
+# 1일차 학습
 - 빅데이터 학습
 
-### 빅데이터 학습
+## 빅데이터 학습
 
-#### 빅데이터 개요
+### 빅데이터 개요
 - 정의
     - 디지털 환경에서 발생하는 대규모의 데이터
     - 대량의 데이터를 수집, 저장, 관리, 분석하는 하드웨어(HW)/소프트웨어(SW), 유통, 활용까지 포함
@@ -16,15 +16,15 @@
     - 분석: 통계, 머신러닝, 딥러닝, 자연어 처리, 패턴 인식, 이미지 프로세싱(Power BI, Tableau 등)   *BI: Business Intelligence
     - 표현: Visualization(Power BI, Tableau 등)
 
-#### 학습 교재
+### 학습 교재
 직장인을 위한 데이터 분석 실무 파이썬, 위키북스
 
 - [실습 자료](https://github.com/Play-with-data/datasalon)(<> Code -> Download Zip)
 
-#### 파이썬 리뷰
+### 파이썬 리뷰
 이전에 [파이썬 기초 학습](https://github.com/hyanyul/python-2024) 종료
 
-#### 데이터 분석 기초
+### 데이터 분석 기초
 데이터 분석을 위한 리이브러리(모듈) 학습부터 시작
 - Pandas: 데이터 처리 라이브러리
 - Numpy: 수치 해석, 계산용 라이브러리
@@ -40,7 +40,7 @@
 
 추가 내용, [Kaggle.com](https://www.kaggle.com/)
 
-##### Pandas 학습
+#### Pandas 학습
 데이터 분석(로딩, 처리 등) 라이브러리
 
 1. Pandas 자료구조
