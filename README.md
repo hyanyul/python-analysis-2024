@@ -3,7 +3,7 @@
 
 
 
-## 1일차
+## [1일차](https://github.com/hyanyul/python-analysis-2024/blob/main/Day01.md)
 - 빅데이터 학습
     - 개요
     - 실습 자료 
