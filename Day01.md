@@ -47,4 +47,10 @@
     
     ![Pandas 자료구조](https://github.com/hyanyul/python-analysis-2024/blob/main/images/pa01.png?raw=true)
     
-    - 데이터 프레임, 시리즈 
+    - 데이터프레임, 시리즈 
+    - 데이터프레임 사용법
+    - 데이터 통합
+
+2. Intellisense로 느려짐
+    - Ctrl + ,(설정) > TypeScript, Editor > Suggest 모두 해제
+    - 필요한 것만 체크해서 사용
