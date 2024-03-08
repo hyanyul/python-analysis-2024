@@ -44,6 +44,7 @@
 데이터 분석(로딩, 처리 등) 라이브러리
 
 1. Pandas 자료구조 
+    
     ![Pandas 자료구조](https://github.com/hyanyul/python-analysis-2024/blob/main/images/pa01.png?raw=true)
     
     - 데이터 프레임, 시리즈 
