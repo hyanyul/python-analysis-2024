@@ -38,7 +38,7 @@
 - PyTorch: 머신러닝, 딥러닝 라이브러리
 - 그 외 다양한 라이브러리 있음
 
-추가 내용, [Kaggle.com](https://www.kaggle.com/)
+추가 내용: [Kaggle.com](https://www.kaggle.com/)
 
 #### Pandas 학습
 데이터 분석(로딩, 처리 등) 라이브러리
