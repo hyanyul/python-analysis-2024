@@ -9,7 +9,7 @@
 
 2. Pandas 내용 통합(merge, concat)
 
-    ![concat결과](https://raw.githubusercontent.com/iieunji023/bigdata-analysis-2024/main/images/ba002.png)
+    ![concat결과](https://github.com/hyanyul/python-analysis-2024/blob/main/images/pa02.png?raw=true)
 
 3. Pivot테이블
 
