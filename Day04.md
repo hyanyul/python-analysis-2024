@@ -26,5 +26,5 @@
 
         ![워드클라우드1](https://github.com/hyanyul/python-analysis-2024/blob/main/images/pa08.png?raw=true)
 
-        ![워드클라우드2](https://github.com/hyanyul/python-analysis-2024/blob/main/images/pa08.png?raw=true)
+        ![워드클라우드2](https://github.com/hyanyul/python-analysis-2024/blob/main/images/pa09.png?raw=true)
     
