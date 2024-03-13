@@ -19,11 +19,11 @@
 - 해시태그 빈도 분석
     - 바차트
 
-        - ![바차트](https://github.com/hyanyul/python-analysis-2024/blob/main/images/pa06.png?raw=true)
+        ![바차트](https://github.com/hyanyul/python-analysis-2024/blob/main/images/pa06.png?raw=true)
 
     
     - 워드클라우드
 
-        - ![워드클라우드](https://github.com/hyanyul/python-analysis-2024/blob/main/images/pa08.png?raw=true)
+        ![워드클라우드](https://github.com/hyanyul/python-analysis-2024/blob/main/images/pa08.png?raw=true)
 
     
