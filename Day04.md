@@ -17,4 +17,13 @@
     - 인스타그램 웹사이트 UI 문제(두가지 UI 존재) Pending
     - 기존 데이터 사용
 - 해시태그 빈도 분석
-    - 바차트, 워드클라우드
+    - 바차트
+
+        - ![바차트](https://github.com/hyanyul/python-analysis-2024/blob/main/images/pa06.png?raw=true)
+
+    
+    - 워드클라우드
+
+        - ![워드클라우드](https://github.com/hyanyul/python-analysis-2024/blob/main/images/pa08.png?raw=true)
+
+    
