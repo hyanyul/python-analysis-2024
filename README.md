@@ -56,4 +56,8 @@
 - 빅데이터 실습
     - Open API 기반 크롤링 실습
     - 통계 분석 리뷰
-    - 머신러닝 실습
+
+
+## [10일차](https://github.com/hyanyul/python-analysis-2024/blob/main/Day10.md)
+- 빅데이터 실습
+    - 통계 분석(와인품질) 리뷰(완)
