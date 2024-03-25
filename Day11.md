@@ -6,7 +6,7 @@
 #### 회귀분석
 - 환경에 따른 주택가격 예측
 
-##### [환경에 따른 주택가격 예측](https://github.com/iieunji023/bigdata-analysis-2024/blob/main/day10/da21_%EC%99%80%EC%9D%B8%ED%92%88%EC%A7%88%EB%93%B1%EA%B8%89_%EB%B6%84%EC%84%9D.ipynb)
+##### [환경에 따른 주택가격 예측](https://github.com/hyanyul/python-analysis-2024/blob/main/day11/da23_%EB%B3%B4%EC%8A%A4%ED%84%B4%EC%A3%BC%ED%83%9D%EA%B0%80%EA%B2%A9_%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.ipynb)
 - 사이킷런 라이브러리 내 보스턴집값 데이터
 
     ![결과산점도](https://github.com/hyanyul/python-analysis-2024/blob/main/images/pa15.png?raw=true)
