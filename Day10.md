@@ -8,7 +8,7 @@
 - 그래프를 사용한 기술 통계 분석
 - 히트맵을 사용한 상관분석
 
-##### 와인 품질 분석(https://github.com/hyanyul/python-analysis-2024/blob/main/day10/pa21_%EC%99%80%EC%9D%B8%ED%92%88%EC%A7%88%EB%93%B1%EA%B8%89_%EB%B6%84%EC%84%9D.ipynb)
+##### [와인 품질 분석](https://github.com/hyanyul/python-analysis-2024/blob/main/day10/pa21_%EC%99%80%EC%9D%B8%ED%92%88%EC%A7%88%EB%93%B1%EA%B8%89_%EB%B6%84%EC%84%9D.ipynb)
 - [캘리포니아 어바인 대학 연구소](https://archive.ics.uci.edu/dataset/186/wine+quality)
 - 기존 웹사이트 데이터 다운로드 방식에서 어바인 연구소에서 데이터다운로드 모듈 개발(python import 형식) 다운로드
 - 기술통계, 기존방식의 분석 사용
