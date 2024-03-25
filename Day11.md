@@ -6,7 +6,7 @@
 #### 회귀분석
 - 환경에 따른 주택가격 예측
 
-##### [환경에 따른 주택가격 예측](https://github.com/hyanyul/python-analysis-2024/blob/main/day11/da23_%EB%B3%B4%EC%8A%A4%ED%84%B4%EC%A3%BC%ED%83%9D%EA%B0%80%EA%B2%A9_%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.ipynb)
+##### [환경에 따른 주택가격 예측](https://github.com/hyanyul/python-analysis-2024/blob/main/day11/pa23_%EB%B3%B4%EC%8A%A4%ED%84%B4%EC%A3%BC%ED%83%9D%EA%B0%80%EA%B2%A9_%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.ipynb)
 - 사이킷런 라이브러리 내 보스턴집값 데이터
 
     ![결과산점도](https://github.com/hyanyul/python-analysis-2024/blob/main/images/pa15.png?raw=true)
@@ -20,10 +20,11 @@
 - 로지스틱 회귀분석
 - 결정트리
 
-##### [특정데이터 유방암 진단](https://github.com/hyanyul/python-analysis-2024/blob/main/day11/da25_%EC%9C%A0%EB%B0%A9%EC%95%94%EC%A7%84%EB%8B%A8_%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.ipynb)
+##### [특정데이터 유방암 진단](https://github.com/hyanyul/python-analysis-2024/blob/main/day11/pa25_%EC%9C%A0%EB%B0%A9%EC%95%94%EC%A7%84%EB%8B%A8_%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.ipynb)
 
 
 ## 12일차 학습
 
 #### 분류분석
 - 로지스틱 회귀분석(계속)
+- 결정트리 분석
