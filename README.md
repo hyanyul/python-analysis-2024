@@ -71,3 +71,8 @@
 - 머신러닝 실습
     - 로지스틱 회귀 분석
     - 결정트리 분석
+    - 텍스트 마이닝, 감정분석
+
+## [13일차](https://github.com/hyanyul/python-analysis-2024/blob/main/Day11.md)
+- 머신러닝 실습
+    - 텍스트 마이닝, 감성분석
